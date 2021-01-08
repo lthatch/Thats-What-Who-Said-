@@ -1,0 +1,60 @@
+<html>
+<head>
+<style>
+body {
+  /* background: url("../static/images/quotes2.jpg") no-repeat;  */
+  background-size: 75% 110%;
+  background-position-y: center;
+  background-position-x: center;
+  background-blend-mode: lighten;
+  text-align: center; 
+} 
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+</style>
+<body>
+  <!-- <form action='/predict' method = 'post'> -->
+    <!-- <p>“Sometimes I’ll start a sentence and I don’t even know where it’s going. I just hope I find it along the way.” — Michael Scott</p> -->
+    <!-- <label for="input">Input:</label> -->
+    <!-- <input type="text" id="input" name="Input"><br><br> -->
+    <!-- <input type="submit" value="Sumbit"> -->
+  <!-- </form> -->
+
+</body>
+</html>
+
+<style>
+  h1 {
+  color:black;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  }
+  p {
+  color:black; 
+  height:80;
+  text-align: center;
+  }
+  img {
+  height: 576;
+  width: 1024;
+  }
+  
+  
+  </style>
+
+<h1>
+ That sounds like something {{prediction_text}} would say!
+</h1>
+<!-- <img src="../static/images/michael.jpg"/> -->
+
+<img src="{{image}}"/>
+<h1>
+
+</h1>
+<form action="/home">
+  <input type="submit" value="Try again" />
+  </form>
