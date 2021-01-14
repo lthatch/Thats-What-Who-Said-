@@ -15,6 +15,12 @@ The goal of this project is to build a model that would take input text from a u
 
 ## EDA
 
+![image](./image/Screen Shot 2021-01-12 at 11.54.34 AM.png)
+
+![image](./images/Screen Shot 2021-01-12 at 11.54.54 AM.png)
+
+![image](./images/Screen Shot 2021-01-12 at 11.55.15 AM.png)
+
 
 
 ## Preparing the Data
