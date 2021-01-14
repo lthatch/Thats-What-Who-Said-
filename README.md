@@ -1,5 +1,8 @@
 # That's What Who Said?
 
+![image](./flask_app/static/images/Dunder_Mifflin,_Inc_Long.jpg)
+
+
 ## The inspiration for this project- The Office TV Show
 
 I am an Office fanatic! I love all the characters and the crazy situations they find themselves in. I would be embarrassed to say how many hours I have watched, but with that time, I feel as if I can quote just about any character from any noteworthy scene.
@@ -8,7 +11,11 @@ I am an Office fanatic! I love all the characters and the crazy situations they 
 
 The goal of this project is to build a model that would take input text from a user and identify a character from The Office who would most likely say those words.
 
+![foxdemo](https://www.sunyocc.edu/sites/default/files/styles/full_width_1228_/public/images/migrated/2018/12/top-of-story-michael-scott-image.jpg)
+
 ## EDA
+
+
 
 ## Preparing the Data
 
